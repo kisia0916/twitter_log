@@ -1,0 +1,157 @@
+.homeImg{
+    flex: 5.7;
+
+    height: 100vh;
+    position: relative;
+}
+.homeMain{
+    flex:4.3;
+
+    background-color:white;
+    height: 100vh;
+    margin-left: 2%;
+    margin-top: 4.5%;
+}
+.wap{
+    display: flex;
+    margin: 0;
+}
+.img{
+    width: 100%;
+    height: 100%;
+    overflow:hidden;
+    object-fit: cover;
+}
+body{
+    margin: 0;
+}
+.mainText{
+    font-size: 400%;
+    display: flex;
+    margin-bottom: 5%;
+    white-space: nowrap;
+    font-family: Arial,sans-serif;
+    font-weight: bold;
+
+}
+.subText{
+    font-size: 190%;
+    font-weight: bold;
+}
+.google_login{
+    display: flex;
+    /* background-color: red; */
+    width: 35%;
+    justify-content: space-evenly;
+    border-radius: 30px;
+    height: 38px;
+    align-items: center;
+    margin-top: 18px;
+    border: 0.5px solid rgb(204, 202, 202);
+}
+.google_login_1{
+    display: flex;
+    /* background-color: red; */
+    width: 35%;
+    justify-content: space-evenly;
+    border-radius: 30px;
+    height: 38px;
+    align-items: center;
+    margin-top: 8px;
+    border: 0.5px solid rgb(204, 202, 202);
+    font-weight: 550;
+    font-size: 95%;
+}
+.google{
+    font-weight: 540;
+}
+.snss{
+    border-radius: 30%;
+    margin-top: 32px;
+}
+.google_login_2{
+    display: flex;
+    /* background-color: red; */
+    width: 35%;
+    justify-content: space-evenly;
+    border-radius: 30px;
+    height: 38px;
+    align-items: center;
+    margin-top: 4px;
+}
+.google_login_3{
+    display: flex;
+    /* background-color: red; */
+    width: 35%;
+    justify-content: space-evenly;
+    border-radius: 30px;
+    height: 38px;
+    align-items: center;
+    margin-top: 3px;
+    background-color: rgb(0, 174, 255);
+    white-space: nowrap;
+    color: white;
+    font-size: 90%;
+    font-weight: 550;
+}
+.omoti{
+    font-weight: 550;
+    margin-bottom: 3%;
+}
+.google_login_4{
+    display: flex;
+    /* background-color: red; */
+    width: 35%;
+    justify-content: space-evenly;
+    border-radius: 30px;
+    height: 38px;
+    align-items: center;
+    margin-top: 14px;
+    border: 0.5px solid rgb(204, 202, 202);
+    font-weight: 550;
+    color: rgb(24, 180, 253);
+}
+.bottom1{
+    margin-top: 15%;
+}
+.rogoImg{
+    width: 70px;
+    height: 45px;
+    margin-bottom: 7%;
+}
+.logo{
+    position: absolute;
+    height: 35%;
+    width: 35%;
+    margin-left: 34%;
+    margin-top: 30%;
+}
+.google_logo{
+    display: flex;
+    /* background-color: red; */
+    width: 35%;
+    border-radius: 30px;
+    height: 38px;
+    margin-top: 18px;
+    border: 0.5px solid rgb(204, 202, 202);
+}
+
+.google_text{
+    margin-left: 0;
+}
+.g-img{
+    width: 11%;
+    height: 54%;
+    margin-right: 1%;
+    justify-content: space-evenly;
+}
+.a-img{
+    width: 8%;
+    height: 40%;
+    margin-right: 2%;
+    justify-content: space-evenly;
+}
+.google_wap{
+    display: flex;
+    justify-content: center;
+}
